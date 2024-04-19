@@ -5,6 +5,7 @@ int top;
 void InitStack(); // 데이터초기화
 int  push(int data);
 int  pop();
+void pop();
 void print();
 
 int main()
